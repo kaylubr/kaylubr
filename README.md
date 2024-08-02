@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello!
 I’m currently enrolled in The Odin Project, a free open-source course. I’m eager to<br>enhance my skills and acquire new knowledge daily. My goal is to contribute to<br>substantial open-source projects to gain proficiency in working with large codebases.
 
 
