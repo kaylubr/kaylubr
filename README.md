@@ -1,23 +1,13 @@
-## Kyle Benedict L. Reyes
+# Hello! 👋
 
-CS @ NU-L '27
+I'm Kyle, a CS student @ National University Laguna.
 
-### Stack
+## Software
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,cs,dotnet,react,svelte,nodejs,express,django,fastapi,postgres" alt="tech stack" />
+- <a href="https://github.com/kaylubr/chewables">Chewables</a>, an online lightweight photobooth app, no login required
+- <a href="https://github.com/kaylubr/foresight">Foresight</a>, previews git commands in a safe clone before you run them for real
+- <a href="https://github.com/kaylubr/maowi">Maowi</a>, turns your lecture notes into multiple modes of questions that you can review and share with friends.
 
-### Random rankings for no reason
+## Contact me
 
-**Manhwa**
-1. The Greatest Estate Developer
-2. Medical Return
-3. Legend of the Northern Blade
-4. HCLW
-5. Gosu
-
-**Shows**
-1. House M.D.
-2. The Mentalist
-3. Dexter
-4. The Office (before M.S left)
-5. Brooklyn 99
+You can reach me at kbreyes.dev@gmail.com
