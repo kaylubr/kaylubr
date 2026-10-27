@@ -17,4 +17,4 @@ i learn out in the open: i finished cs50x and full stack open, and currently doi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-[portfolio](https://kylebenedict.tech) · [linkedin](https://linkedin.com/in/kylebreyes/) · [email](mailto:kbreyes.dev@gmail.com)
+[portfolio](https://kylebenedict.tech) · [linkedin](https://linkedin.com/in/kylebreyes/) · [email](mailto:kbreyes.dev@gmail.com) · [boot.dev](https://www.boot.dev/u/shabbyphoto42)
