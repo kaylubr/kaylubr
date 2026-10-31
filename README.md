@@ -1,6 +1,6 @@
 ### kyle benedict reyes
 
-computer science student in laguna, loves to build different things (except for ui's). 
+computer science student in laguna, loves to build different things (except for ui's). <img src="dancing-gopher.gif" width="32" alt="dancing gopher">
 
 right now i'm working through the backend developer path on boot.dev. i'm in my senior year and looking for an internship.
 
