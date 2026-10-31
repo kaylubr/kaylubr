@@ -1,10 +1,10 @@
 ### kyle benedict reyes
 
-computer science student in laguna, learning by building things that i think looks fun. <img src="https://gist.github.com/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/e3e02536fd8e39e82b14e68fa953bac0dbed8a59/dancing-gopher.gif" width="32" alt="dancing gopher">
+computer science student in laguna, loves to build different things (except for ui's). 
 
-right now i'm working through the backend developer path on boot.dev, with a focus on backend engineering. i'm in my senior year of bscs at nu-l (class of 2027) and looking for an internship.
+right now i'm working through the backend developer path on boot.dev. i'm in my senior year and looking for an internship.
 
-i learn out in the open: i finished cs50x and full stack open, and currently doing boot.dev just for fun. outside school i tinker with my linux setup, running omarchy in a dual boot with windows 11.
+i finished cs50x and full stack open, and created a couple of projects. currently doing boot.dev just for fun. outside school i tinker with my linux setup, running omarchy in a dual boot with windows 11.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
