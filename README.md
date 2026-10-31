@@ -1,6 +1,6 @@
 ### kyle benedict reyes
 
-computer science student in laguna, learning by building things that i think looks fun.
+computer science student in laguna, learning by building things that i think looks fun. <img src="https://gist.github.com/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/e3e02536fd8e39e82b14e68fa953bac0dbed8a59/dancing-gopher.gif" width="32" alt="dancing gopher">
 
 right now i'm working through the backend developer path on boot.dev, with a focus on backend engineering. i'm in my senior year of bscs at nu-l (class of 2027) and looking for an internship.
 
